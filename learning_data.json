@@ -1,0 +1,1314 @@
+{
+  "patterns": [
+    {
+      "state": {
+        "health": 38,
+        "level": 15,
+        "gold": 462,
+        "position": "lane_border",
+        "enemies_nearby": 1,
+        "creeps_nearby": 0,
+        "phase": "early",
+        "timestamp": 1768685550.994278
+      },
+      "action": "jungle",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685550.994278
+    },
+    {
+      "state": {
+        "health": 79,
+        "level": 9,
+        "gold": 646,
+        "position": "jungle",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "early",
+        "timestamp": 1768685552.101729
+      },
+      "action": "jungle",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685552.101729
+    },
+    {
+      "state": {
+        "health": 37,
+        "level": 14,
+        "gold": 961,
+        "position": "base",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "early",
+        "timestamp": 1768685553.2177227
+      },
+      "action": "jungle",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685553.2177227
+    },
+    {
+      "state": {
+        "health": 44,
+        "level": 6,
+        "gold": 530,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 3,
+        "phase": "early",
+        "timestamp": 1768685555.689602
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685555.689602
+    },
+    {
+      "state": {
+        "health": 46,
+        "level": 13,
+        "gold": 409,
+        "position": "base",
+        "enemies_nearby": 1,
+        "creeps_nearby": 0,
+        "phase": "early",
+        "timestamp": 1768685556.8259158
+      },
+      "action": "jungle",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685556.8259158
+    },
+    {
+      "state": {
+        "health": 99,
+        "level": 13,
+        "gold": 377,
+        "position": "lane_center",
+        "enemies_nearby": 1,
+        "creeps_nearby": 0,
+        "phase": "early",
+        "timestamp": 1768685557.950137
+      },
+      "action": "jungle",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685557.950137
+    },
+    {
+      "state": {
+        "health": 96,
+        "level": 5,
+        "gold": 753,
+        "position": "lane_border",
+        "enemies_nearby": 1,
+        "creeps_nearby": 3,
+        "phase": "early",
+        "timestamp": 1768685560.4364913
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685560.4364913
+    },
+    {
+      "state": {
+        "health": 32,
+        "level": 10,
+        "gold": 395,
+        "position": "jungle",
+        "enemies_nearby": 1,
+        "creeps_nearby": 3,
+        "phase": "early",
+        "timestamp": 1768685562.9301496
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685562.9301496
+    },
+    {
+      "state": {
+        "health": 73,
+        "level": 15,
+        "gold": 544,
+        "position": "lane_border",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "early",
+        "timestamp": 1768685564.039204
+      },
+      "action": "jungle",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685564.039204
+    },
+    {
+      "state": {
+        "health": 77,
+        "level": 1,
+        "gold": 575,
+        "position": "jungle",
+        "enemies_nearby": 0,
+        "creeps_nearby": 1,
+        "phase": "early",
+        "timestamp": 1768685566.51186
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685566.51186
+    },
+    {
+      "state": {
+        "health": 73,
+        "level": 12,
+        "gold": 971,
+        "position": "base",
+        "enemies_nearby": 0,
+        "creeps_nearby": 1,
+        "phase": "early",
+        "timestamp": 1768685568.9701202
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685568.9701202
+    },
+    {
+      "state": {
+        "health": 98,
+        "level": 15,
+        "gold": 890,
+        "position": "lane_border",
+        "enemies_nearby": 1,
+        "creeps_nearby": 2,
+        "phase": "early",
+        "timestamp": 1768685571.4430966
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685571.4430966
+    },
+    {
+      "state": {
+        "health": 41,
+        "level": 1,
+        "gold": 728,
+        "position": "lane_border",
+        "enemies_nearby": 0,
+        "creeps_nearby": 1,
+        "phase": "early",
+        "timestamp": 1768685573.9005756
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685573.9005756
+    },
+    {
+      "state": {
+        "health": 57,
+        "level": 12,
+        "gold": 420,
+        "position": "base",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "early",
+        "timestamp": 1768685575.0302238
+      },
+      "action": "jungle",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685575.0302238
+    },
+    {
+      "state": {
+        "health": 38,
+        "level": 9,
+        "gold": 729,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "early",
+        "timestamp": 1768685576.1671777
+      },
+      "action": "jungle",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685576.1671777
+    },
+    {
+      "state": {
+        "health": 77,
+        "level": 10,
+        "gold": 872,
+        "position": "lane_border",
+        "enemies_nearby": 0,
+        "creeps_nearby": 1,
+        "phase": "early",
+        "timestamp": 1768685578.6260047
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685578.6260047
+    },
+    {
+      "state": {
+        "health": 80,
+        "level": 10,
+        "gold": 348,
+        "position": "base",
+        "enemies_nearby": 1,
+        "creeps_nearby": 0,
+        "phase": "early",
+        "timestamp": 1768685579.7412696
+      },
+      "action": "jungle",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685579.741788
+    },
+    {
+      "state": {
+        "health": 49,
+        "level": 2,
+        "gold": 515,
+        "position": "base",
+        "enemies_nearby": 1,
+        "creeps_nearby": 2,
+        "phase": "early",
+        "timestamp": 1768685582.2072155
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685582.2072155
+    },
+    {
+      "state": {
+        "health": 94,
+        "level": 15,
+        "gold": 718,
+        "position": "lane_border",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "early",
+        "timestamp": 1768685583.3302526
+      },
+      "action": "jungle",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685583.3302526
+    },
+    {
+      "state": {
+        "health": 96,
+        "level": 8,
+        "gold": 626,
+        "position": "jungle",
+        "enemies_nearby": 0,
+        "creeps_nearby": 3,
+        "phase": "early",
+        "timestamp": 1768685585.8011527
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685585.8011527
+    },
+    {
+      "state": {
+        "health": 49,
+        "level": 5,
+        "gold": 507,
+        "position": "base",
+        "enemies_nearby": 1,
+        "creeps_nearby": 1,
+        "phase": "early",
+        "timestamp": 1768685588.293316
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685588.293316
+    },
+    {
+      "state": {
+        "health": 49,
+        "level": 10,
+        "gold": 927,
+        "position": "lane_border",
+        "enemies_nearby": 1,
+        "creeps_nearby": 2,
+        "phase": "early",
+        "timestamp": 1768685591.2555947
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685591.2555947
+    },
+    {
+      "state": {
+        "health": 38,
+        "level": 14,
+        "gold": 940,
+        "position": "lane_border",
+        "enemies_nearby": 0,
+        "creeps_nearby": 3,
+        "phase": "early",
+        "timestamp": 1768685610.2688134
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685610.2688134
+    },
+    {
+      "state": {
+        "health": 68,
+        "level": 14,
+        "gold": 565,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "early",
+        "timestamp": 1768685611.3768716
+      },
+      "action": "jungle",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685611.3768716
+    },
+    {
+      "state": {
+        "health": 45,
+        "level": 2,
+        "gold": 385,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 1,
+        "phase": "early",
+        "timestamp": 1768685613.8452036
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685613.8452036
+    },
+    {
+      "state": {
+        "health": 48,
+        "level": 7,
+        "gold": 988,
+        "position": "lane_center",
+        "enemies_nearby": 1,
+        "creeps_nearby": 0,
+        "phase": "early",
+        "timestamp": 1768685614.9762595
+      },
+      "action": "jungle",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685614.9762595
+    },
+    {
+      "state": {
+        "health": 48,
+        "level": 9,
+        "gold": 678,
+        "position": "lane_border",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "early",
+        "timestamp": 1768685616.089098
+      },
+      "action": "jungle",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685616.089098
+    },
+    {
+      "state": {
+        "health": 81,
+        "level": 5,
+        "gold": 384,
+        "position": "lane_border",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "early",
+        "timestamp": 1768685617.1999319
+      },
+      "action": "jungle",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685617.1999319
+    },
+    {
+      "state": {
+        "health": 58,
+        "level": 6,
+        "gold": 953,
+        "position": "lane_center",
+        "enemies_nearby": 1,
+        "creeps_nearby": 2,
+        "phase": "early",
+        "timestamp": 1768685619.6566603
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685619.6566603
+    },
+    {
+      "state": {
+        "health": 70,
+        "level": 3,
+        "gold": 795,
+        "position": "jungle",
+        "enemies_nearby": 0,
+        "creeps_nearby": 3,
+        "phase": "early",
+        "timestamp": 1768685622.1147208
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685622.1147208
+    },
+    {
+      "state": {
+        "health": 52,
+        "level": 13,
+        "gold": 554,
+        "position": "jungle",
+        "enemies_nearby": 0,
+        "creeps_nearby": 1,
+        "phase": "mid",
+        "timestamp": 1768685624.5808902
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685624.5808902
+    },
+    {
+      "state": {
+        "health": 98,
+        "level": 9,
+        "gold": 767,
+        "position": "lane_center",
+        "enemies_nearby": 1,
+        "creeps_nearby": 1,
+        "phase": "mid",
+        "timestamp": 1768685626.692634
+      },
+      "action": "gank",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685626.692634
+    },
+    {
+      "state": {
+        "health": 98,
+        "level": 6,
+        "gold": 673,
+        "position": "base",
+        "enemies_nearby": 1,
+        "creeps_nearby": 1,
+        "phase": "mid",
+        "timestamp": 1768685628.817044
+      },
+      "action": "gank",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685628.817044
+    },
+    {
+      "state": {
+        "health": 36,
+        "level": 6,
+        "gold": 430,
+        "position": "jungle",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "mid",
+        "timestamp": 1768685629.9597435
+      },
+      "action": "jungle",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685629.9597435
+    },
+    {
+      "state": {
+        "health": 97,
+        "level": 10,
+        "gold": 942,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "mid",
+        "timestamp": 1768685631.066773
+      },
+      "action": "jungle",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685631.066773
+    },
+    {
+      "state": {
+        "health": 38,
+        "level": 7,
+        "gold": 451,
+        "position": "base",
+        "enemies_nearby": 0,
+        "creeps_nearby": 3,
+        "phase": "mid",
+        "timestamp": 1768685633.532227
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685633.532227
+    },
+    {
+      "state": {
+        "health": 57,
+        "level": 13,
+        "gold": 545,
+        "position": "jungle",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "mid",
+        "timestamp": 1768685634.6618252
+      },
+      "action": "jungle",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685634.6618252
+    },
+    {
+      "state": {
+        "health": 79,
+        "level": 13,
+        "gold": 731,
+        "position": "jungle",
+        "enemies_nearby": 0,
+        "creeps_nearby": 1,
+        "phase": "mid",
+        "timestamp": 1768685637.132665
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685637.132665
+    },
+    {
+      "state": {
+        "health": 45,
+        "level": 15,
+        "gold": 829,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "mid",
+        "timestamp": 1768685638.250464
+      },
+      "action": "jungle",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685638.250464
+    },
+    {
+      "state": {
+        "health": 65,
+        "level": 8,
+        "gold": 974,
+        "position": "base",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "mid",
+        "timestamp": 1768685639.3534808
+      },
+      "action": "jungle",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685639.3534808
+    },
+    {
+      "state": {
+        "health": 50,
+        "level": 2,
+        "gold": 400,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "mid",
+        "timestamp": 1768685640.4605424
+      },
+      "action": "jungle",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685640.4605424
+    },
+    {
+      "state": {
+        "health": 61,
+        "level": 7,
+        "gold": 991,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "mid",
+        "timestamp": 1768685641.5711715
+      },
+      "action": "jungle",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685641.5711715
+    },
+    {
+      "state": {
+        "health": 53,
+        "level": 13,
+        "gold": 332,
+        "position": "base",
+        "enemies_nearby": 0,
+        "creeps_nearby": 1,
+        "phase": "mid",
+        "timestamp": 1768685644.0359588
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685644.0359588
+    },
+    {
+      "state": {
+        "health": 53,
+        "level": 12,
+        "gold": 968,
+        "position": "base",
+        "enemies_nearby": 0,
+        "creeps_nearby": 2,
+        "phase": "mid",
+        "timestamp": 1768685646.4942517
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685646.4942517
+    },
+    {
+      "state": {
+        "health": 84,
+        "level": 1,
+        "gold": 844,
+        "position": "lane_border",
+        "enemies_nearby": 0,
+        "creeps_nearby": 2,
+        "phase": "mid",
+        "timestamp": 1768685648.9602451
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685648.9602451
+    },
+    {
+      "state": {
+        "health": 99,
+        "level": 4,
+        "gold": 677,
+        "position": "base",
+        "enemies_nearby": 1,
+        "creeps_nearby": 0,
+        "phase": "mid",
+        "timestamp": 1768685651.088842
+      },
+      "action": "gank",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685651.088842
+    },
+    {
+      "state": {
+        "health": 97,
+        "level": 9,
+        "gold": 504,
+        "position": "jungle",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "mid",
+        "timestamp": 1768685652.205253
+      },
+      "action": "jungle",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685652.205253
+    },
+    {
+      "state": {
+        "health": 94,
+        "level": 11,
+        "gold": 393,
+        "position": "lane_border",
+        "enemies_nearby": 1,
+        "creeps_nearby": 0,
+        "phase": "mid",
+        "timestamp": 1768685654.3371892
+      },
+      "action": "gank",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685654.3371892
+    },
+    {
+      "state": {
+        "health": 79,
+        "level": 9,
+        "gold": 310,
+        "position": "lane_center",
+        "enemies_nearby": 1,
+        "creeps_nearby": 0,
+        "phase": "mid",
+        "timestamp": 1768685656.4638553
+      },
+      "action": "gank",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685656.4638553
+    },
+    {
+      "state": {
+        "health": 71,
+        "level": 4,
+        "gold": 750,
+        "position": "jungle",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "mid",
+        "timestamp": 1768685657.5762916
+      },
+      "action": "jungle",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685657.5762916
+    },
+    {
+      "state": {
+        "health": 48,
+        "level": 14,
+        "gold": 866,
+        "position": "jungle",
+        "enemies_nearby": 1,
+        "creeps_nearby": 0,
+        "phase": "mid",
+        "timestamp": 1768685658.6857698
+      },
+      "action": "jungle",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685658.6857698
+    },
+    {
+      "state": {
+        "health": 81,
+        "level": 13,
+        "gold": 351,
+        "position": "base",
+        "enemies_nearby": 1,
+        "creeps_nearby": 0,
+        "phase": "mid",
+        "timestamp": 1768685660.8000822
+      },
+      "action": "gank",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685660.8000822
+    },
+    {
+      "state": {
+        "health": 47,
+        "level": 14,
+        "gold": 676,
+        "position": "lane_border",
+        "enemies_nearby": 0,
+        "creeps_nearby": 2,
+        "phase": "mid",
+        "timestamp": 1768685663.2636318
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685663.2636318
+    },
+    {
+      "state": {
+        "health": 82,
+        "level": 3,
+        "gold": 441,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "mid",
+        "timestamp": 1768685664.3699002
+      },
+      "action": "jungle",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685664.3699002
+    },
+    {
+      "state": {
+        "health": 33,
+        "level": 5,
+        "gold": 610,
+        "position": "jungle",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "mid",
+        "timestamp": 1768685665.499971
+      },
+      "action": "jungle",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685665.499971
+    },
+    {
+      "state": {
+        "health": 46,
+        "level": 1,
+        "gold": 420,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "mid",
+        "timestamp": 1768685666.6076765
+      },
+      "action": "jungle",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685666.6076765
+    },
+    {
+      "state": {
+        "health": 92,
+        "level": 11,
+        "gold": 471,
+        "position": "base",
+        "enemies_nearby": 1,
+        "creeps_nearby": 0,
+        "phase": "mid",
+        "timestamp": 1768685668.7278771
+      },
+      "action": "gank",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685668.7278771
+    },
+    {
+      "state": {
+        "health": 93,
+        "level": 13,
+        "gold": 730,
+        "position": "jungle",
+        "enemies_nearby": 0,
+        "creeps_nearby": 3,
+        "phase": "mid",
+        "timestamp": 1768685671.1910942
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685671.1910942
+    },
+    {
+      "state": {
+        "health": 33,
+        "level": 13,
+        "gold": 718,
+        "position": "lane_border",
+        "enemies_nearby": 1,
+        "creeps_nearby": 0,
+        "phase": "mid",
+        "timestamp": 1768685672.3046117
+      },
+      "action": "jungle",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685672.3046117
+    },
+    {
+      "state": {
+        "health": 55,
+        "level": 5,
+        "gold": 849,
+        "position": "base",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "mid",
+        "timestamp": 1768685673.409683
+      },
+      "action": "jungle",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685673.409683
+    },
+    {
+      "state": {
+        "health": 89,
+        "level": 3,
+        "gold": 982,
+        "position": "base",
+        "enemies_nearby": 0,
+        "creeps_nearby": 1,
+        "phase": "late",
+        "timestamp": 1768685675.8670275
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685675.8670275
+    },
+    {
+      "state": {
+        "health": 73,
+        "level": 3,
+        "gold": 555,
+        "position": "jungle",
+        "enemies_nearby": 1,
+        "creeps_nearby": 0,
+        "phase": "late",
+        "timestamp": 1768685677.9869654
+      },
+      "action": "gank",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685677.9869654
+    },
+    {
+      "state": {
+        "health": 87,
+        "level": 15,
+        "gold": 993,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 2,
+        "phase": "late",
+        "timestamp": 1768685680.4711077
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685680.4711077
+    },
+    {
+      "state": {
+        "health": 52,
+        "level": 12,
+        "gold": 856,
+        "position": "base",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "late",
+        "timestamp": 1768685682.9416397
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685682.9416397
+    },
+    {
+      "state": {
+        "health": 91,
+        "level": 9,
+        "gold": 772,
+        "position": "lane_center",
+        "enemies_nearby": 1,
+        "creeps_nearby": 0,
+        "phase": "late",
+        "timestamp": 1768685685.0547962
+      },
+      "action": "gank",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685685.0547962
+    },
+    {
+      "state": {
+        "health": 96,
+        "level": 8,
+        "gold": 303,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "late",
+        "timestamp": 1768685687.5128064
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685687.5128064
+    },
+    {
+      "state": {
+        "health": 36,
+        "level": 5,
+        "gold": 620,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "late",
+        "timestamp": 1768685689.9784453
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685689.9784453
+    },
+    {
+      "state": {
+        "health": 73,
+        "level": 13,
+        "gold": 897,
+        "position": "jungle",
+        "enemies_nearby": 1,
+        "creeps_nearby": 0,
+        "phase": "late",
+        "timestamp": 1768685692.0995378
+      },
+      "action": "gank",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685692.0995378
+    },
+    {
+      "state": {
+        "health": 59,
+        "level": 3,
+        "gold": 617,
+        "position": "lane_border",
+        "enemies_nearby": 0,
+        "creeps_nearby": 1,
+        "phase": "late",
+        "timestamp": 1768685694.57414
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685694.57414
+    },
+    {
+      "state": {
+        "health": 43,
+        "level": 13,
+        "gold": 637,
+        "position": "lane_border",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "late",
+        "timestamp": 1768685697.031296
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685697.031296
+    },
+    {
+      "state": {
+        "health": 34,
+        "level": 1,
+        "gold": 438,
+        "position": "jungle",
+        "enemies_nearby": 0,
+        "creeps_nearby": 3,
+        "phase": "late",
+        "timestamp": 1768685699.4924924
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685699.4924924
+    },
+    {
+      "state": {
+        "health": 84,
+        "level": 9,
+        "gold": 915,
+        "position": "jungle",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "late",
+        "timestamp": 1768685701.9992013
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685701.9992013
+    },
+    {
+      "state": {
+        "health": 64,
+        "level": 3,
+        "gold": 327,
+        "position": "lane_center",
+        "enemies_nearby": 1,
+        "creeps_nearby": 3,
+        "phase": "late",
+        "timestamp": 1768685704.1035137
+      },
+      "action": "gank",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685704.1035137
+    },
+    {
+      "state": {
+        "health": 67,
+        "level": 11,
+        "gold": 579,
+        "position": "lane_center",
+        "enemies_nearby": 1,
+        "creeps_nearby": 1,
+        "phase": "late",
+        "timestamp": 1768685706.2245789
+      },
+      "action": "gank",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685706.2245789
+    },
+    {
+      "state": {
+        "health": 54,
+        "level": 8,
+        "gold": 402,
+        "position": "lane_border",
+        "enemies_nearby": 0,
+        "creeps_nearby": 1,
+        "phase": "late",
+        "timestamp": 1768685710.1839936
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685710.1839936
+    },
+    {
+      "state": {
+        "health": 86,
+        "level": 14,
+        "gold": 881,
+        "position": "lane_border",
+        "enemies_nearby": 1,
+        "creeps_nearby": 0,
+        "phase": "late",
+        "timestamp": 1768685713.790277
+      },
+      "action": "gank",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685713.790277
+    },
+    {
+      "state": {
+        "health": 53,
+        "level": 11,
+        "gold": 848,
+        "position": "lane_border",
+        "enemies_nearby": 0,
+        "creeps_nearby": 1,
+        "phase": "late",
+        "timestamp": 1768685716.2468085
+      },
+      "action": "farm",
+      "result": {
+        "success": true
+      },
+      "timestamp": 1768685716.2468085
+    }
+  ],
+  "stats": {}
+}

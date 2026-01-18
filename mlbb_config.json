@@ -1,0 +1,9 @@
+{
+  "joystick_center": [
+    300,
+    900
+  ],
+  "forward_dx": -25,
+  "forward_dy": -50,
+  "calibrated": true
+}

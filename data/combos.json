@@ -1,0 +1,150 @@
+{
+  "QUICK GANK": {
+    "name": "QUICK GANK",
+    "description": "Быстрый ганг на ослабленного врага",
+    "skills": [
+      "s2",
+      "s1",
+      "s3",
+      "attack"
+    ],
+    "timing": [
+      0.1,
+      0.2,
+      0.3,
+      0.1
+    ],
+    "condition": null,
+    "priority": 8,
+    "successes": 0,
+    "failures": 0,
+    "total_executions": 0,
+    "success_rate": 0.0,
+    "avg_execution_time": 0.0,
+    "last_used": 0.0
+  },
+  "ULTIMATE BURST": {
+    "name": "ULTIMATE BURST",
+    "description": "Полное комбо с ультимейтом для убийства",
+    "skills": [
+      "s2",
+      "s1",
+      "ult",
+      "s3",
+      "attack"
+    ],
+    "timing": [
+      0.1,
+      0.2,
+      0.3,
+      0.2,
+      0.1
+    ],
+    "condition": null,
+    "priority": 9,
+    "successes": 0,
+    "failures": 0,
+    "total_executions": 0,
+    "success_rate": 0.0,
+    "avg_execution_time": 0.0,
+    "last_used": 0.0
+  },
+  "ESCAPE COMBO": {
+    "name": "ESCAPE COMBO",
+    "description": "Комбо для побега из опасной ситуации",
+    "skills": [
+      "s2",
+      "s2",
+      "s2"
+    ],
+    "timing": [
+      0.1,
+      0.1,
+      0.2
+    ],
+    "condition": null,
+    "priority": 10,
+    "successes": 80,
+    "failures": 0,
+    "total_executions": 80,
+    "success_rate": 1.0,
+    "avg_execution_time": 0.0,
+    "last_used": 1768693961.6690407
+  },
+  "LANE FARM": {
+    "name": "LANE FARM",
+    "description": "Эффективная очистка линии миньонов",
+    "skills": [
+      "s1",
+      "s2",
+      "attack",
+      "attack"
+    ],
+    "timing": [
+      0.2,
+      0.1,
+      0.1,
+      0.1
+    ],
+    "condition": null,
+    "priority": 7,
+    "successes": 0,
+    "failures": 0,
+    "total_executions": 0,
+    "success_rate": 0.0,
+    "avg_execution_time": 0.0,
+    "last_used": 0.0
+  },
+  "JUNGLE CLEAR": {
+    "name": "JUNGLE CLEAR",
+    "description": "Быстрая очистка лагеря леса",
+    "skills": [
+      "s1",
+      "s2",
+      "attack",
+      "s3",
+      "attack"
+    ],
+    "timing": [
+      0.2,
+      0.1,
+      0.2,
+      0.1,
+      0.1
+    ],
+    "condition": null,
+    "priority": 6,
+    "successes": 0,
+    "failures": 0,
+    "total_executions": 0,
+    "success_rate": 0.0,
+    "avg_execution_time": 0.0,
+    "last_used": 0.0
+  },
+  "OBJECTIVE STEAL": {
+    "name": "OBJECTIVE STEAL",
+    "description": "Попытка украсть лорда/черепаху",
+    "skills": [
+      "s2",
+      "ult",
+      "s1",
+      "s3",
+      "attack"
+    ],
+    "timing": [
+      0.1,
+      0.3,
+      0.1,
+      0.1,
+      0.1
+    ],
+    "condition": null,
+    "priority": 8,
+    "successes": 0,
+    "failures": 0,
+    "total_executions": 0,
+    "success_rate": 0.0,
+    "avg_execution_time": 0.0,
+    "last_used": 0.0
+  }
+}

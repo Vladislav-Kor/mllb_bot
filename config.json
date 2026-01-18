@@ -1,0 +1,6 @@
+{
+  "screen_region": [0, 0, 1920, 1080],
+  "minimap_region": [1600, 100, 300, 300],
+  "joystick_center": [300, 900],
+  "debug_mode": true
+}

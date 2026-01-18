@@ -1,0 +1,2041 @@
+{
+  "patterns": [
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "enemy_territory",
+        "enemies_nearby": 2,
+        "creeps_nearby": 9,
+        "phase": "early",
+        "safety_score": 0.12
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688415.376623
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 2,
+        "creeps_nearby": 13,
+        "phase": "early",
+        "safety_score": 0.24
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688418.2406862
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "enemy_territory",
+        "enemies_nearby": 3,
+        "creeps_nearby": 11,
+        "phase": "early",
+        "safety_score": 0.06
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688421.1106498
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 3,
+        "creeps_nearby": 12,
+        "phase": "early",
+        "safety_score": 0.12
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688423.9814441
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 1,
+        "creeps_nearby": 7,
+        "phase": "early",
+        "safety_score": 0.32000000000000006
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688426.8427024
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 2,
+        "creeps_nearby": 4,
+        "phase": "early",
+        "safety_score": 0.24
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688429.715912
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 2,
+        "position": "enemy_territory",
+        "enemies_nearby": 3,
+        "creeps_nearby": 2,
+        "phase": "early",
+        "safety_score": 0.06
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688432.582336
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 5,
+        "creeps_nearby": 3,
+        "phase": "early",
+        "safety_score": 0.12
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688435.4487653
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 1,
+        "creeps_nearby": 4,
+        "phase": "early",
+        "safety_score": 0.32000000000000006
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688438.3316004
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 2,
+        "creeps_nearby": 3,
+        "phase": "early",
+        "safety_score": 0.24
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688441.199074
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 4,
+        "creeps_nearby": 5,
+        "phase": "early",
+        "safety_score": 0.12
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688444.0607154
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 2,
+        "position": "lane_center",
+        "enemies_nearby": 3,
+        "creeps_nearby": 4,
+        "phase": "early",
+        "safety_score": 0.12
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688446.9420006
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 2,
+        "position": "lane_center",
+        "enemies_nearby": 2,
+        "creeps_nearby": 5,
+        "phase": "early",
+        "safety_score": 0.24
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688449.8001792
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "enemy_territory",
+        "enemies_nearby": 3,
+        "creeps_nearby": 2,
+        "phase": "early",
+        "safety_score": 0.06
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688452.6597888
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "enemy_territory",
+        "enemies_nearby": 3,
+        "creeps_nearby": 4,
+        "phase": "early",
+        "safety_score": 0.06
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688455.521981
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 3,
+        "creeps_nearby": 3,
+        "phase": "early",
+        "safety_score": 0.12
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688458.3930082
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 9,
+        "creeps_nearby": 4,
+        "phase": "early",
+        "safety_score": 0.12
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688461.2562864
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "enemy_territory",
+        "enemies_nearby": 2,
+        "creeps_nearby": 3,
+        "phase": "early",
+        "safety_score": 0.12
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688464.1172879
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 3,
+        "creeps_nearby": 4,
+        "phase": "early",
+        "safety_score": 0.12
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688468.0780241
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 1,
+        "creeps_nearby": 8,
+        "phase": "early",
+        "safety_score": 0.32000000000000006
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688472.0516014
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 2,
+        "creeps_nearby": 1,
+        "phase": "early",
+        "safety_score": 0.24
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688474.9036963
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "enemy_territory",
+        "enemies_nearby": 1,
+        "creeps_nearby": 4,
+        "phase": "early",
+        "safety_score": 0.16000000000000003
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688477.7777076
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "enemy_territory",
+        "enemies_nearby": 2,
+        "creeps_nearby": 9,
+        "phase": "early",
+        "safety_score": 0.12
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688480.638287
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 2,
+        "phase": "early",
+        "safety_score": 0.4
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688483.4918084
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "enemy_territory",
+        "enemies_nearby": 0,
+        "creeps_nearby": 1,
+        "phase": "early",
+        "safety_score": 0.2
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688486.3474944
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "enemy_territory",
+        "enemies_nearby": 0,
+        "creeps_nearby": 1,
+        "phase": "early",
+        "safety_score": 0.2
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688489.2015746
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 2,
+        "creeps_nearby": 10,
+        "phase": "early",
+        "safety_score": 0.24
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688492.0597744
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 3,
+        "creeps_nearby": 6,
+        "phase": "early",
+        "safety_score": 0.12
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688494.9149024
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 7,
+        "creeps_nearby": 9,
+        "phase": "early",
+        "safety_score": 0.12
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688497.8024654
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 2,
+        "position": "enemy_territory",
+        "enemies_nearby": 3,
+        "creeps_nearby": 4,
+        "phase": "early",
+        "safety_score": 0.06
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688500.6730106
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 2,
+        "phase": "mid",
+        "safety_score": 0.4
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688503.5200267
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 2,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 4,
+        "phase": "mid",
+        "safety_score": 0.4
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688506.372934
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "mid",
+        "safety_score": 0.4
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688509.2260208
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 3,
+        "creeps_nearby": 5,
+        "phase": "mid",
+        "safety_score": 0.12
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688512.0936973
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 2,
+        "creeps_nearby": 7,
+        "phase": "mid",
+        "safety_score": 0.24
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688514.9493594
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 2,
+        "position": "lane_center",
+        "enemies_nearby": 1,
+        "creeps_nearby": 19,
+        "phase": "mid",
+        "safety_score": 0.32000000000000006
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688517.8014233
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 3,
+        "creeps_nearby": 1,
+        "phase": "mid",
+        "safety_score": 0.12
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688520.6682184
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 3,
+        "phase": "mid",
+        "safety_score": 0.4
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688523.534033
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 1,
+        "phase": "mid",
+        "safety_score": 0.4
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688526.396024
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 2,
+        "position": "enemy_territory",
+        "enemies_nearby": 0,
+        "creeps_nearby": 1,
+        "phase": "mid",
+        "safety_score": 0.2
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688529.2503364
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "enemy_territory",
+        "enemies_nearby": 1,
+        "creeps_nearby": 7,
+        "phase": "mid",
+        "safety_score": 0.16000000000000003
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688532.159478
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 1,
+        "phase": "mid",
+        "safety_score": 0.4
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688535.0140862
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 2,
+        "phase": "mid",
+        "safety_score": 0.4
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688537.883709
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 2,
+        "position": "enemy_territory",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "mid",
+        "safety_score": 0.2
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688541.8472984
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "mid",
+        "safety_score": 0.4
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688545.9052086
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "mid",
+        "safety_score": 0.4
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688549.8648572
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 4,
+        "phase": "mid",
+        "safety_score": 0.4
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688553.8376024
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 3,
+        "creeps_nearby": 2,
+        "phase": "mid",
+        "safety_score": 0.12
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688556.707173
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 4,
+        "creeps_nearby": 2,
+        "phase": "mid",
+        "safety_score": 0.12
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688559.5621376
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 3,
+        "phase": "mid",
+        "safety_score": 0.4
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688562.4206438
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 2,
+        "creeps_nearby": 2,
+        "phase": "mid",
+        "safety_score": 0.24
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688565.2802777
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 2,
+        "creeps_nearby": 2,
+        "phase": "mid",
+        "safety_score": 0.24
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688568.1854792
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 2,
+        "creeps_nearby": 2,
+        "phase": "mid",
+        "safety_score": 0.24
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688571.04552
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 2,
+        "phase": "mid",
+        "safety_score": 0.4
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688573.9148645
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 2,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 4,
+        "phase": "mid",
+        "safety_score": 0.4
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688576.7694645
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 2,
+        "phase": "mid",
+        "safety_score": 0.4
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688580.7282202
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 2,
+        "position": "lane_center",
+        "enemies_nearby": 4,
+        "creeps_nearby": 10,
+        "phase": "mid",
+        "safety_score": 0.12
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688583.5929415
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "mid",
+        "safety_score": 0.4
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688586.4691699
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "mid",
+        "safety_score": 0.4
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688590.4329507
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "mid",
+        "safety_score": 0.4
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688594.4059806
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "late",
+        "safety_score": 0.4
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688597.2776759
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "late",
+        "safety_score": 0.4
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688600.1373324
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 2,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "late",
+        "safety_score": 0.4
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688603.0076823
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "late",
+        "safety_score": 0.4
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688605.890804
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "late",
+        "safety_score": 0.4
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688608.7845304
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 0,
+        "creeps_nearby": 0,
+        "phase": "late",
+        "safety_score": 0.4
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688611.6788545
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 2,
+        "position": "lane_center",
+        "enemies_nearby": 4,
+        "creeps_nearby": 2,
+        "phase": "late",
+        "safety_score": 0.12
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688614.5618355
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 2,
+        "creeps_nearby": 17,
+        "phase": "early",
+        "safety_score": 0.24
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688671.740981
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 1,
+        "creeps_nearby": 9,
+        "phase": "early",
+        "safety_score": 0.32000000000000006
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688674.6003168
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 3,
+        "creeps_nearby": 6,
+        "phase": "early",
+        "safety_score": 0.12
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688677.4692824
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 2,
+        "position": "enemy_territory",
+        "enemies_nearby": 2,
+        "creeps_nearby": 5,
+        "phase": "early",
+        "safety_score": 0.12
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688680.3294253
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 2,
+        "position": "lane_center",
+        "enemies_nearby": 5,
+        "creeps_nearby": 2,
+        "phase": "early",
+        "safety_score": 0.12
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688683.1859639
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 2,
+        "creeps_nearby": 3,
+        "phase": "early",
+        "safety_score": 0.24
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688686.088711
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 2,
+        "position": "lane_center",
+        "enemies_nearby": 2,
+        "creeps_nearby": 2,
+        "phase": "early",
+        "safety_score": 0.24
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688688.9589338
+    },
+    {
+      "state": {
+        "health": 1,
+        "level": 1,
+        "position": "lane_center",
+        "enemies_nearby": 2,
+        "creeps_nearby": 5,
+        "phase": "early",
+        "safety_score": 0.24
+      },
+      "action": "retreat",
+      "result": {
+        "success": true,
+        "details": {
+          "reason": "low_health"
+        },
+        "kills": 0,
+        "gold_earned": 0
+      },
+      "timestamp": 1768688691.813417
+    }
+  ],
+  "combos": [
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7581644058227539,
+      "timestamp": 1768688413.410502
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7569546699523926,
+      "timestamp": 1768688416.2713594
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7591643333435059,
+      "timestamp": 1768688419.1391628
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7580342292785645,
+      "timestamp": 1768688422.013079
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7606427669525146,
+      "timestamp": 1768688424.8747187
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7562656402587891,
+      "timestamp": 1768688427.7500536
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7615900039672852,
+      "timestamp": 1768688430.617553
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7563915252685547,
+      "timestamp": 1768688433.4814434
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7572956085205078,
+      "timestamp": 1768688436.364254
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7580299377441406,
+      "timestamp": 1768688439.2312982
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7576203346252441,
+      "timestamp": 1768688442.0933764
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7566642761230469,
+      "timestamp": 1768688444.9736934
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7571444511413574,
+      "timestamp": 1768688447.8321729
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7581207752227783,
+      "timestamp": 1768688450.696185
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7569348812103271,
+      "timestamp": 1768688453.5591054
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7586009502410889,
+      "timestamp": 1768688456.4255276
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.75669264793396,
+      "timestamp": 1768688459.2898607
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.758481502532959,
+      "timestamp": 1768688462.1515806
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7611434459686279,
+      "timestamp": 1768688466.1141636
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7583568096160889,
+      "timestamp": 1768688470.085778
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.75876784324646,
+      "timestamp": 1768688472.9370618
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7576429843902588,
+      "timestamp": 1768688475.8114338
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7576744556427002,
+      "timestamp": 1768688478.6717522
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7588691711425781,
+      "timestamp": 1768688481.5304604
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7558948993682861,
+      "timestamp": 1768688484.3834963
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7576112747192383,
+      "timestamp": 1768688487.2366607
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7586724758148193,
+      "timestamp": 1768688490.0968323
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7567439079284668,
+      "timestamp": 1768688492.9514832
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7584924697875977,
+      "timestamp": 1768688495.8398347
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7556047439575195,
+      "timestamp": 1768688498.7097878
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7567288875579834,
+      "timestamp": 1768688501.5580864
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7599127292633057,
+      "timestamp": 1768688504.4089358
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7555034160614014,
+      "timestamp": 1768688507.262485
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7584567070007324,
+      "timestamp": 1768688510.1299083
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7577764987945557,
+      "timestamp": 1768688512.9838808
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7573683261871338,
+      "timestamp": 1768688515.8388247
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7573678493499756,
+      "timestamp": 1768688518.6985433
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7583627700805664,
+      "timestamp": 1768688521.5713959
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7598052024841309,
+      "timestamp": 1768688524.4296355
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7569842338562012,
+      "timestamp": 1768688527.2881765
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7594406604766846,
+      "timestamp": 1768688530.1948807
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7577478885650635,
+      "timestamp": 1768688533.0522504
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7602119445800781,
+      "timestamp": 1768688535.9158068
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.761171817779541,
+      "timestamp": 1768688539.8821328
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7561872005462646,
+      "timestamp": 1768688543.942077
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7593035697937012,
+      "timestamp": 1768688547.8973005
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7589061260223389,
+      "timestamp": 1768688551.8659902
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7565703392028809,
+      "timestamp": 1768688554.7419739
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7587168216705322,
+      "timestamp": 1768688557.5982761
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7609891891479492,
+      "timestamp": 1768688560.4571218
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7579746246337891,
+      "timestamp": 1768688563.3148184
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7575638294219971,
+      "timestamp": 1768688566.2195525
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7590019702911377,
+      "timestamp": 1768688569.0811856
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7569432258605957,
+      "timestamp": 1768688571.9516985
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7575874328613281,
+      "timestamp": 1768688574.8049765
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7577733993530273,
+      "timestamp": 1768688578.7638614
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7578864097595215,
+      "timestamp": 1768688581.6240008
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7579033374786377,
+      "timestamp": 1768688584.5037262
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7602145671844482,
+      "timestamp": 1768688588.465964
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7586677074432373,
+      "timestamp": 1768688592.440409
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.760434627532959,
+      "timestamp": 1768688595.3104079
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7569081783294678,
+      "timestamp": 1768688598.1702933
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7555935382843018,
+      "timestamp": 1768688601.0429673
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.757498025894165,
+      "timestamp": 1768688603.9093442
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7687349319458008,
+      "timestamp": 1768688606.8198016
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7572929859161377,
+      "timestamp": 1768688609.7105484
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7568099498748779,
+      "timestamp": 1768688612.5938885
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7648370265960693,
+      "timestamp": 1768688669.7747018
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7564117908477783,
+      "timestamp": 1768688672.637102
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7567827701568604,
+      "timestamp": 1768688675.5068605
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7572202682495117,
+      "timestamp": 1768688678.3620775
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7565515041351318,
+      "timestamp": 1768688681.2198522
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7578051090240479,
+      "timestamp": 1768688684.1225986
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.759345531463623,
+      "timestamp": 1768688686.9934049
+    },
+    {
+      "name": "ESCAPE COMBO",
+      "success": true,
+      "execution_time": 0.7552692890167236,
+      "timestamp": 1768688689.8462224
+    }
+  ],
+  "stats": {
+    "cycles": 75,
+    "enemies_killed": 0,
+    "creeps_killed": 0,
+    "gold_earned": 0
+  },
+  "total_patterns": 75,
+  "total_combos": 75,
+  "save_timestamp": 1768688963.483421,
+  "save_date": "2026-01-18 01:29:23"
+}
